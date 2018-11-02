@@ -3,8 +3,8 @@ from selenium import webdriver
 import time
 
 #variaveis para email e senha (sera automatizado quando for criado a tela)
-usr = 'your_email'
-pwd = 'yout_password'
+usr = 'Your_email'
+pwd = 'Your_Password'
 
 
 #Driver para conectar ao chrome
@@ -43,4 +43,4 @@ while control > 0:
 
 #Desenvolvido por LeandroSouza
 
-#teste
+
